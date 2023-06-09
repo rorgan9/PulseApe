@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x12B16b8adc3A4019338eD7f3DC46718e0E239D49",
+  "SCAN_LINK": "https://scan.pulsechain.com/address/0x12B16b8adc3A4019338eD7f3DC46718e0E239D49/",
+  "NETWORK": {
+    "NAME": "Pulse Chain",
+    "SYMBOL": "PLS",
+    "ID": 369
+  },
+  "NFT_NAME": "PulseApeYatchClub",
+  "SYMBOL": "PAPC",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 12000,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "tPulseMarket",
+  "MARKETPLACE_LINK": "https://tpulsemarket.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/pulseape",
+  "SHOW_BACKGROUND": true
+}
